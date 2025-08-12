@@ -176,16 +176,6 @@ Goals, constraints, and UX guidelines:
 
 ---
 
-## Roadmap (Suggested)
-
-- Hit markers and damage numbers (client-side; server confirms)
-- ADS sway and weapon bob
-- Melee bash and quick-swap
-- Per-weapon animation sets (equip, reload, inspect)
-- Unit tests for cadence, reload, and validation
-
----
-
 ## License
 
 Add your preferred license (e.g., MIT).
