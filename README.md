@@ -132,17 +132,6 @@ StarterPack/
 
 ---
 
-## Extending
-
-- **Burst fire**: add `BurstCount` and per-burst cadence limits.
-- **Overheating**: track heat, add cooldown lockout + UI warning.
-- **Projectile mode**: swap raycast for physical projectiles or use **FastCast**.
-- **Attachments**: scopes (ADS FOV), silencers (audio/flash), barrels (spread/recoil).
-- **Ammo types**: AP (penetration), stun (status), explosive (AOE).
-- **Lag compensation**: server rewinds to client fire time within a safe window.
-
----
-
 ## Anti-Exploit Notes
 
 - Never trust client damage or range; **re-compute** server-side.
