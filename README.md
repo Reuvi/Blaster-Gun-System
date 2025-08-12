@@ -66,7 +66,7 @@ README.md
 > Keep the server as the source of truth; the client reads a strict subset for UI.
 
 ```lua
--- ReplicatedStorage/Blaster/Shared/BlasterConfig.lua
+-- ReplicatedStorage/Blaster/Shared/BlasterConfig.lua OR use roblox templated dataValues
 return {
   Weapons = {
     BlasterRifle = {
@@ -77,7 +77,6 @@ return {
       MagazineSize = 30,
       ReloadTime = 2.0,            -- seconds
       Range = 300,                 -- studs
-      Penetration = 0,             -- studs; 0 = disabled
       Spread = {
         Hipfire = 1.5,             -- degrees
         ADS = 0.5,
@@ -88,13 +87,6 @@ return {
         Vertical = 0.6,
         Horizontal = 0.25,
         Recovery = 8.0             -- how quickly aim returns
-      },
-      FX = {
-        MuzzleAttachmentName = "Muzzle",
-        UseTracer = true,
-        ImpactSpark = "BlasterImpact",
-        Sound_Fire = "BlasterFire",
-        Sound_Reload = "Reload",
       }
     }
   }
