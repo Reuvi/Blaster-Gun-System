@@ -1,7 +1,7 @@
 # Blaster-Gun-System
 
 A modular **Roblox (Luau)** blaster/laser gun system built for **server-authoritative** combat with **smooth client VFX/SFX**. Drop it into your game with minimal wiring and clear extension points for new weapons, fire modes, and effects.
-
+(Core game code transfered over, project directory, assets, and exact file structure is not the same)
 > Design doc: **Blaster System 1.0 – User Guide** > [https://docs.google.com/document/d/1UDMj3X-n-5f8cBDXlzjcDagfvXyZwlQ5yAwH1ZCq_D8/edit?usp=sharing](https://docs.google.com/document/d/1UDMj3X-n-5f8cBDXlzjcDagfvXyZwlQ5yAwH1ZCq_D8/edit?usp=sharing)
 
 ---
