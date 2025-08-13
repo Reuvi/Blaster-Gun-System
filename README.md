@@ -157,10 +157,6 @@ Goals, constraints, and UX guidelines:
 
 ---
 
-## License
-
-Add your preferred license (e.g., MIT).
-
 ## Credits
 
 Built by **Reuvi**. Thanks to the Roblox dev community for best practices on server-authoritative gunplay.
