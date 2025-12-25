@@ -2,9 +2,6 @@
 
 A modular **Roblox (Luau)** blaster/laser gun system built for **server-authoritative** combat with **smooth client VFX/SFX**. Drop it into your game with minimal wiring and clear extension points for new weapons, fire modes, and effects.
 
-**Status:** Partial code drop for portfolio (not immediately runnable).
-**Why:** Proprietary/large assets and project-specific file structure are excluded.
-
 ## What this shows
 - Core game/logic modules I wrote
 - Networking/state systems
